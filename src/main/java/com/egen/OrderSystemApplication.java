@@ -35,7 +35,7 @@ public class OrderSystemApplication {
 	private ApiInfo apiDetails() {
 		return new ApiInfo(
 				"Order Management API",
-				"This API is for Order Management Microservice",
+				"This API is for Order Management Microservice for an ecom",
 				"1.0",
 				"Free to use",
 				new springfox.documentation.service.Contact("Tushar", "https://tushar2805.github.io/portfolio/", "yusharutd@gmail.com"),
